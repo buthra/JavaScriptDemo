@@ -1,26 +1,9 @@
-[
-  {
-    "Book": A1,
-    "units": 320
-  },
-  {
-    "Book": 1494009000000,
-    "units": 552
-  },
-  {
-    "date": 1494095400000,
-    "units": 342
-  },
-  {
-    "date": 1494181800000,
-    "units": 431
-  },
-  {
-    "date": 1494268200000,
-    "units": 251
-  },
-  {
-    "date": 1494354600000,
-    "units": 445
-  }
-]
+{
+    "name":"John",
+    "age":31,
+    "pets":[
+        { "animal":"dog", "name":"Fido" },
+        { "animal":"cat", "name":"Felix" },
+        { "animal":"hamster", "name":"Lightning" }
+    ]
+}
